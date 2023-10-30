@@ -15,3 +15,8 @@ Poseidon Unit
 
 
 - ![](result.png)
+# Known issues
+- "Pyautogui was unable to import pyscreeze" do
+- ```python
+  pip install pillow
+  ```
