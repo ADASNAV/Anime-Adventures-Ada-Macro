@@ -12,11 +12,13 @@ Poseidon Unit
 - After this you can change "installedlibs" variable to True.
 - Loading Wait Time is for Lobby only.
 - Result should look like this.
-
-
 - ![](result.png)
+- Copy these ingame settings.
+- ![](settings.png)
 # Known issues
 - "Pyautogui was unable to import pyscreeze" do
 - ```python
   pip install pillow
   ```
+
+  
