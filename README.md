@@ -20,5 +20,7 @@ Poseidon Unit
 - ```python
   pip install pillow
   ```
+- Macro choosing sand village
+- Don't use full screen(F11)
 
   
