@@ -15,11 +15,8 @@ Poseidon Unit
 - ![](result.png)
 - Copy these ingame settings.
 - ![](settings.png)
+  
 # Known issues
-- "Pyautogui was unable to import pyscreeze" do
-- ```python
-  pip install pillow
-  ```
 - Macro choosing sand village = Don't use full screen(F11)
 
 
