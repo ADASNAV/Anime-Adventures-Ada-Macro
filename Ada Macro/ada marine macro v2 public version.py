@@ -8,7 +8,7 @@ import time
 # VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 installedlibs = False # Please change it to True later!
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-required_libraries = ['pyautoit', 'keyboard', 'discord-webhook', 'pypresence', "opencv-python", 'pyautogui']
+required_libraries = ['pyautoit', 'keyboard', 'discord-webhook', 'pypresence', "opencv-python", 'pyautogui', 'pillow']
 
 missing_libraries = []
 if installedlibs == False:
