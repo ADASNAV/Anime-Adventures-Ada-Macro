@@ -188,6 +188,7 @@ Lobby Functions
     
     
 def JoinVip():
+    StartingRPC()
     Webhook("Hello and thank you for using Ada's Marine w25 macro!")
     webbrowser.open(Viplink)
     playbutton = pyautogui.locateOnScreen('Play.png', confidence=0.5)
